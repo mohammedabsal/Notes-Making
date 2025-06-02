@@ -1,3 +1,4 @@
+---
 
 ````markdown
 # 📝 Smart Note Taking App
