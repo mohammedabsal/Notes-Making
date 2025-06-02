@@ -1,5 +1,5 @@
----
 
+---
 # 📝 Smart Note Taking App
 ## 🚀 Features
 
