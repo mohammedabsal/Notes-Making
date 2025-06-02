@@ -1,12 +1,6 @@
 ---
 
-````markdown
 # 📝 Smart Note Taking App
-
-A productivity-focused note-taking and task management web application built with [Streamlit](https://streamlit.io/). This app enables users to capture ideas through text or voice, manage daily and future to-dos, and earn achievement points as they stay productive.
----
----
-
 ## 🚀 Features
 
 - **Text and Voice Note Input**  
